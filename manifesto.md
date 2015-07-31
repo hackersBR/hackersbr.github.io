@@ -6,7 +6,7 @@ permalink: /manifesto/
 
 # Manifesto HackersBR
 
-Estamos em todos os lugares. Somos de todas as espécies, tipos, cores, crenças e tamanhos. Somos inquietos e queremos mais do que só participar, queremos fazer a diferença, refazer com os diferentes, desfazer as indiferenças. Abrir o que está fechado, guardando o que é privado, e tornar colaborativo o que já/ainda é livre, que é nosso tempo e existência.
+Estamos em todos os lugares. Somos de todas as espécies, tipos, cores, crenças e tamanhos. Somos inquietos e queremos mais do que só participar, queremos fazer a diferença, refazer com os diferentes, desfazer as indiferenças. Abrir o que está fechado, guardando o que é privado, e tornar colaborativo o que já/ainda é livre, que é nosso tempo e existência. Procuramos, através de ferramentas, ideias e muito esforço, intensificar a relação do governo com a sociedade, tornando os processos de tomada de decisão mais abertos, transparentes, democráticos e inclusivos.
 
 ## Princípios da **Ética Hacker**
 - O acesso ao conhecimento deve ser ilimitado e total
