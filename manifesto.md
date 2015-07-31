@@ -6,7 +6,7 @@ permalink: /manifesto/
 
 # Manifesto HackersBR
 
-Estamos em todos os lugares. Somos de todas as espécies, tipos, cores, crenças e tamanhos. Somos inquietos e queremos mais do que só participar, queremos fazer a diferença, refazer com os diferentes, desfazer as indiferenças. Abrir o que está fechado, guardando o que é privado, e tornar colaborativo o que já/ainda é livre, que é nosso tempo e existência.
+Estamos em todos os lugares. Somos de todas as espécies, tipos, cores, crenças e tamanhos. Somos inquietos e queremos mais do que só participar, queremos fazer a diferença, refazer com os diferentes, desfazer as indiferenças. Abrir o que está fechado, guardando o que é privado, e tornar colaborativo o que já/ainda é livre, que é nosso tempo e existência. Procuramos, através de ferramentas, ideias e muito esforço, intensificar a relação do governo com a sociedade, tornando os processos de tomada de decisão mais abertos, transparentes, democráticos e inclusivos.
 
 ## Princípios da **Ética Hacker**
 - O acesso ao conhecimento deve ser ilimitado e total
@@ -33,7 +33,7 @@ Estamos em todos os lugares. Somos de todas as espécies, tipos, cores, crenças
 Transformar o Sistema. Adaptar a política do século 21 e para o século 21. Desburocratizar a política, deixar o governo mais transparente e autogestor; queremos atualizar as utopias, construir novas narrativas, mais conectadas aos interesses da população
 
 ### Como Faremos?
-Abrir, descobrir, consertar. Depois fazer isso com todo o sistema...
+Abrir, descobrir, consertar. Depois fazer isso com todo o sistema. Vamos empunhar o trabalho em rede colaborativo, a prestação de contas, a aproximação do poder público com a sociedade. E através do nosso canal, vamos divulgar nossas iniciativas e projetos em andamento.
 
 ### Quer que desenhe?
 @Dpadua já fez isso há 10 anos ;)
