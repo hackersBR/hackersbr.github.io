@@ -20,13 +20,13 @@ Estamos em todos os lugares. Somos de todas as espécies, tipos, cores, crenças
 
 ## Princípios da **Colaboração em Rede**
 
-0. Tudo deve ser aberto a todos.
+0. Abrir o que deve ser público e proteger o que deve ser privado - #liberdade #proteção
 
-1. Diálogo e Feedback são importantes.
+1. Dialogar horizontalmente e dar Feedback frequentemente - #comunidade #escuta
 
-2. Governança Colaborativa de Prioridades e Recursos
+2. Eleger as Prioridades e Compartilhar os Recursos - #governança #colaboração
 
-3. Identificação e Registro são ferramentas de reputação, não de controle.
+3. Identificar e Registrar para medir reputação, e não controle - #identidade #reputação
 
 
 ## O Que Queremos?
