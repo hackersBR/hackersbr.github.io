@@ -33,7 +33,7 @@ Estamos em todos os lugares. Somos de todas as espécies, tipos, cores, crenças
 Transformar o Sistema. Adaptar a política do século 21 e para o século 21. Desburocratizar a política, deixar o governo mais transparente e autogestor; queremos atualizar as utopias, construir novas narrativas, mais conectadas aos interesses da população
 
 ### Como Faremos?
-Abrir, descobrir, consertar. Depois fazer isso com todo o sistema...
+Abrir, descobrir, consertar. Depois fazer isso com todo o sistema. Vamos empunhar o trabalho em rede colaborativo, a prestação de contas, a aproximação do poder público com a sociedade. E através do nosso canal, vamos divulgar nossas iniciativas e projetos em andamento.
 
 ### Quer que desenhe?
 @Dpadua já fez isso há 10 anos ;)
