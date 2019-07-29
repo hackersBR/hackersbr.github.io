@@ -1,9 +1,3 @@
----
-layout: page
-title: GT Hackers da Política
-permalink: /gt/
----
-
 # GT Hackers da Política
 
 - TODO
