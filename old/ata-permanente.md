@@ -1,9 +1,3 @@
----
-layout: page
-title: Ata Permanente
-permalink: /ata/
----
-
 # Ata Permanente
 
 A proposta é organizar as atas (ou relatos) das reuniões. 
